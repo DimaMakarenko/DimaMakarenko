@@ -7,6 +7,7 @@ My stack is as follows:
 * CSS (SCSS)
 * JavaScript (ES5-ES12)
 * React
+* Redux, Redux Toolkit, Redux-Saga, redux-thunk
 * React-Navite
 * TypeScript
 * Landing Page 
