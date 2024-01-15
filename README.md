@@ -16,8 +16,7 @@ My stack is as follows:
 
 ## I am also lurking on ⚡
 [LinkedIn <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/dm-makarenko
-) **|** [Instagram <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/mm_divi/)
-
+)
 ---
 
 
